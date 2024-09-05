@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="MergeSortedArray\" />
+    <Folder Include="MajorityElement\" />
+    <Folder Include="BestTimeToBuySellStock1\" />
+    <Folder Include="BestTimeToBuySellStock2\" />
+    <Folder Include="JumpGame1\" />
+    <Folder Include="JumpGame2\" />
+    <Folder Include="HIndex\" />
+    <Folder Include="InsertDeleteGetRandom\" />
+    <Folder Include="GasStation\" />
+    <Folder Include="Candy\" />
+    <Folder Include="IntegerToRoman\" />
+    <Folder Include="LengthOfLastWord\" />
+    <Folder Include="LongestCommonPrefix\" />
+    <Folder Include="FindIndexOfFirstOccurrenceInString\" />
+    <Folder Include="TextJustification\" />
+    <Folder Include="ZigzagConversion\" />
+    <Folder Include="ReverseWordsInString\" />
+    <Folder Include="RomanToInteger\" />
+    <Folder Include="TrappingRainWater\" />
+    <Folder Include="ProductArrayExceptSelf\" />
+    <Folder Include="RotateArray\" />
+    <Folder Include="RemoveDupFromSortedArr2\" />
+    <Folder Include="RemoveDupFromSortedArr1\" />
+    <Folder Include="RemoveElement\" />
+  </ItemGroup>
+
+</Project>
